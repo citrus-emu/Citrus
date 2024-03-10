@@ -11,6 +11,8 @@
   <code><a href="mailto:admin@chainedtears.dev"><img width="24" src="https://raw.githubusercontent.com/djsime1/djsime1/main/Icons/Email.png"> Email</a></code>
 </h4>
 <hr>
+<img align="center" src="/citrus-banner.png"/>
+<hr>
 <h1 align="center">🍊 Citrus Emulator</h1>
 <p align="center">So... what's the project like right now? We've manage to save the latest release of Citra, from the date of March 3, 2024.</p>
 <p align="center">We will keep updating Citrus, and actively maintain builds for Android, Windows and Linux.</p>
